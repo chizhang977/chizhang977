@@ -15,7 +15,7 @@
 - 🙏 致谢
 
 感谢你访问我的主页！我始终相信技术的力量在于分享与合作。如果你有任何问题、合作意向或是只是想聊聊天，都非常欢迎！
-> 下面图片来源于：[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)这是一个流行的项目，用于生成个性化统计卡片。
+
 <p float="left">
   <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=chizhang977&show_icons=true&theme=midnight-purple&bg_color=30,78ffd6,3a7bd5&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true&include_all_commits=true&hide_border=true&line_height=24" />
   <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chizhang977&layout=compact&theme=cobalt&bg_color=30,3a7bd5,78ffd6&title_color=fff&text_color=fff&hide_border=true" />
