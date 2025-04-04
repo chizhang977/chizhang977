@@ -4,7 +4,7 @@
 
 - 🛠  技能树：    Java | python | Spring Cloud | Spring Boot | Redis | MySQL | vue | dokcer | k8s | CI/CD 
 
-- 🎓 教育背景：**[兰州文理学院]**、**【软件工程】**
+- 🎓 教育背景：**【软件工程】**
 
 - 📦 开源项目：[我的博客](https://chizhang977.github.io/justin/)|开源项目，目前加载中....哈哈哈
 
